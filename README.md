@@ -1,6 +1,6 @@
 # lucianorreis
 
-AOBA! Tudo bom? me chamo Luciano R. Reis, estudante de programação desde os 16 anos, apaixonado pela tecnologia desde novo, cheguei até aqui pela curiosidade e vontade de aprender mais, que tal conhecer alguns pontos da minha breve jornada?
+AOBA! Tudo bom? me chamo Luciano, estudante de programação desde os 16 anos, apaixonado pela tecnologia desde novo, cheguei até aqui pela curiosidade e vontade de aprender mais, que tal conhecer alguns pontos da minha breve jornada?
 
 ## Conecte-se comigo!
 
@@ -22,13 +22,7 @@ AOBA! Tudo bom? me chamo Luciano R. Reis, estudante de programação desde os 16
 
 <hr>
 
-De pouco em pouco vou me aperfeiçoando, apesar de gostar muito de Linguagens fracamente tipadas, considero toda linguagem útil, cada uma pode servir para sua respectiva tarefa, sabemos que o mercado não é feito de favoritismo, mas de eficiência, e conhecer um pouco de tudo só expande os horizontes
-
-<hr>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianorreis&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-Apesar de todas as dificuldades, tento me manter treinando e aprendendo cada vez mais, sonhando em ser CTO ou CEO de uma Empresa um dia... quem sabe oque o futuro nos reserva, não é?
 
 ## Projetos
 
