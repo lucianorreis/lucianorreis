@@ -29,6 +29,7 @@ AOBA! Tudo bom? me chamo Luciano, estudante de programação desde os 16 anos, a
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucianorreis&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucianorreis/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucianorreis&repo=Conta-de-Banco-Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucianorreis/Conta-de-Banco-Java)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucianorreis&repo=EBCrud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucianorreis/EBCrud)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucianorreis&repo=atendimento_nodejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucianorreis/atendimento_nodejs)
 
 <hr>
 
